@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""
+
 Download attachments from an IMAP mailbox.
 
 Usage examples:
