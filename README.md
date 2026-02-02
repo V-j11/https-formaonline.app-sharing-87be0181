@@ -8,8 +8,8 @@ import re
 
 # ========== الإعدادات - عدّل هنا فقط ==========
 
-EMAIL = “78mshahrani@gmail.com”
-PASSWORD = “ضع_كلمة_المرور_هنا”  # App Password من Gmail
+EMAIL = “mshahrani78@gmail.com”
+PASSWORD = “Mm123123x”  # App Password من Gmail
 SAVE_FOLDER = “المرفقات_المحملة”
 
 # ========== لا تعدل تحت هذا الخط ==========
