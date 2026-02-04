@@ -48,7 +48,7 @@ def setup_folder():
     """إنشاء مجلد الحفظ إذا لم يوجد"""
     if not os.path.exists(SAVE_FOLDER):
         os.makedirs(SAVE_FOLDER)
-
+https://mem.ai/notes/eee78ea9-ad29-4dbb-bcce-80f6ded78c83
 def download():
     """تحميل المرفقات"""
     print("\n" + "="*60)
